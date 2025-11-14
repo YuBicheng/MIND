@@ -1,0 +1,1 @@
+python -u main_hier_clf.py --model_type /mnt/proj/bert --lr=2e-5 --input_dir ./Pre-processing/fast_data/ --bs=4 --user_encoder=trans_abs --num_trans_layers=1 --seed 0
